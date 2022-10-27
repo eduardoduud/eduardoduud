@@ -1,4 +1,4 @@
-  ### Hello there! 
+  ### Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22">
 
 I have 10 years of experience in IT. I started in mid-2012, out of pure
 curiosity, playing with creating and configuring unofficial MMORPG
