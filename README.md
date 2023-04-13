@@ -6,10 +6,10 @@
 <h1>About Me! 😎</h1>
 
 - 🏫: I have almost 10 years of experience in IT 💻
-- 🔭: I’m currently working on many small ML projects 🤖
-- 🌱: I’m currently learning Fast API 🧠💻🤖
+- 🔭: I’m currently working on React projects 🤖
+- 🌱: I’m currently learning React and CSS 🧠💻🤖
 - 🤔: I’m looking for help with anything I am currently learning! 😅
-- 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms 📊📈🤖🧠
+- 💬: Ask me about Python, React, CSS, HTML 🧠
 - 😄  Pronouns: He/His
 - ⚡  Fun fact: I was almost a pro Dota 2 player! 
 <br>
