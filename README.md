@@ -5,13 +5,13 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <h1>About Me! 😎</h1>
 
-- 🏫: I have almost 10 years of experience in IT 💻
-- 🔭: I’m currently working on React projects 🤖
-- 🌱: I’m currently learning React and CSS 🧠💻🤖
-- 🤔: I’m looking for help with anything I am currently learning! 😅
-- 💬: Ask me about Python, React, CSS, HTML 🧠
-- 😄  Pronouns: He/His
-- ⚡  Fun fact: I was almost a pro Dota 2 player! 
+<p>I started in mid-2012, out of pure curiosity, playing around with creating and configuring unofficial emulators/servers for an MMORPG. Always trying to learn and improve things, evolve and surpass goals. Addicted to doing activities in a smart, efficient and quick way. Currently specializing in tech stacks geared towards Full Stack development.</p>
+
+- ⚡: I have almost 10 years of experience in IT 💻
+- 💼: I’m currently working on React projects 🤖
+- 🤔: I’m always open for tips and tricks!
+- 💬: Ask me anything about my tech stack 🧠
+- 😄  Fun fact: I was almost a pro Dota 2 player! 
 <br>
 
 <h2 align="left">My Socials 📬</h1>
