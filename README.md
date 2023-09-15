@@ -7,11 +7,11 @@
 
 <p>I started in mid-2012, out of pure curiosity, playing around with creating and configuring unofficial emulators/servers for an MMORPG. Always trying to learn and improve things, evolve and surpass goals. Addicted to doing activities in a smart, efficient and quick way. Currently specializing in tech stacks geared towards Full Stack development.</p>
 
-- ⚡: I have almost 10 years of experience in IT 💻
-- 💼: I’m currently working on React projects 🤖
-- 🤔: I’m always open for tips and tricks!
-- 💬: Ask me anything about my tech stack 🧠
-- 😄  Fun fact: I was almost a pro Dota 2 player! 
+- ⚡ I have almost 10 years of experience in IT 💻
+- 💼 I’m currently working on React projects 🤖
+- 🤔 I’m always open for tips and tricks!
+- 💬 Ask me anything about my tech stack 🧠
+- 😄 Fun fact: I was almost a pro Dota 2 player! 
 <br>
 
 <h2 align="left">My Socials 📬</h1>
