@@ -16,16 +16,16 @@
 
 <h2 align="left">My Socials 📬</h1>
 <p align="left">
-<a href="https://www.linkedin.com/in/eduardoedomingues/" target="_blank">
-  <img align="center" alt="Eduardo Domingues | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/eduardoduud/" target="_blank">
-  <img align="center" alt="Eduardo Domingues | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-</a> &nbsp;&nbsp;
-<a href="mailto:eeadomingues@gmail.com" >
-  <img align="center" alt="Eduardo Domingues | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
-<p>
+  <a href="https://www.linkedin.com/in/eduardoedomingues/">
+    <img align="center" width="34px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg">
+  </a> &ensp;
+  <a href="https://www.instagram.com/eduardoduud/">
+    <img align="center" width="34px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg">
+  </a> &ensp;
+  <a href="mailto:eeadomingues@gmail.com">
+    <img align="center" width="36px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg">
+  </a>
+</p>
 <br>
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
