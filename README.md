@@ -16,21 +16,17 @@
 
 <h2 align="left">My Socials 📬</h1>
 <p align="left">
-  <button style="background-color: transparent; border: none;">
-    <a className="px-2" title="Linkedin" href="https://www.linkedin.com/in/eduardoedomingues/">
-      <img align="center" width="36px" border="0"
-      src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-    </a>
-  </button>  &ensp;
+  <a className="px-2" title="Linkedin" href="https://www.linkedin.com/in/eduardoedomingues/">
+    <img align="center" width="36px" border="0"
+    src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a>  &ensp;
   <a title="Github" href="https://www.instagram.com/eduardoduud/">
     <img align="center" width="34px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg">
   </a> &ensp;
-  <button style="background-color: transparent; border: none;">
-    <a className="px-2" title="Gmail" href="mailto:eeadomingues@gmail.com?subject=Olá, Eduardo!&body=Escreva sua mensagem"
-      target="_blank">
-      <img align="center" width="36px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-    </a>
-  </button>
+  <a className="px-2" title="Gmail" href="mailto:eeadomingues@gmail.com?subject=Olá, Eduardo!&body=Escreva sua mensagem"
+    target="_blank">
+    <img align="center" width="36px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a>
 </p>
 <br>
 
